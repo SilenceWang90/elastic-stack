@@ -1,6 +1,0 @@
-spring:
-  elasticsearch:
-    jest:
-      uris: http://localhost:9200
-      username: elastic
-      password: wangpeng_elastic
